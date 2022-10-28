@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "612948530650",
+    "project_id": "vianthotapp",
+    "storage_bucket": "vianthotapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612948530650:android:96e01d9c2e7249dc219ce3",
+        "android_client_info": {
+          "package_name": "com.thot_john.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612948530650-0cmbkrkonaeuev13ranq7ftm1j8p3jo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0gXen4UP1zf2y6jCQs0ti5vylhkJisVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612948530650-0cmbkrkonaeuev13ranq7ftm1j8p3jo5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "612948530650-pkq2j2s19mu9grv6b34287bu1dl6lfeu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thotjohn.android"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
